@@ -1,0 +1,124 @@
+2025-10-16T10:46:31.139311Z  INFO tailwindcss_oxide::scanner: Provided sources:
+2025-10-16T10:46:31.139691Z  INFO tailwindcss_oxide::scanner: Source: PublicSourceEntry { base: "C:\\Users\\kamen\\gcs-hackathon", pattern: "**/*", negated: false }
+2025-10-16T10:46:31.140432Z  INFO tailwindcss_oxide::scanner: Optimized sources:
+2025-10-16T10:46:31.140496Z  INFO tailwindcss_oxide::scanner: Source: Auto { base: "C:\\Users\\kamen\\gcs-hackathon" }
+2025-10-16T10:46:31.143553Z  INFO scan_sources: tailwindcss_oxide::scanner: enter
+2025-10-16T10:46:31.145075Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\.editorconfig"
+2025-10-16T10:46:31.145338Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\.gitattributes"
+2025-10-16T10:46:31.147445Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\.prettierrc.json"
+2025-10-16T10:46:31.147599Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\.vscode"
+2025-10-16T10:46:31.147753Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\.vscode\\extensions.json"
+2025-10-16T10:46:31.147880Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\e2e"
+2025-10-16T10:46:31.147997Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\e2e\\tsconfig.json"
+2025-10-16T10:46:31.148064Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\e2e\\vue.spec.ts"
+2025-10-16T10:46:31.148149Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\env.d.ts"
+2025-10-16T10:46:31.148212Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\eslint.config.ts"
+2025-10-16T10:46:31.148285Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\index.html"
+2025-10-16T10:46:31.148513Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\package.json"
+2025-10-16T10:46:31.148651Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\playwright.config.ts"
+2025-10-16T10:46:31.148711Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\postcss.config.cjs"
+2025-10-16T10:46:31.148809Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\public"
+2025-10-16T10:46:31.148961Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\README.md"
+2025-10-16T10:46:31.149072Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\scripts"
+2025-10-16T10:46:31.149225Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\scripts\\tw-test.mjs"
+2025-10-16T10:46:31.149345Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src"
+2025-10-16T10:46:31.149467Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\App.vue"
+2025-10-16T10:46:31.149563Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\assets"
+2025-10-16T10:46:31.149697Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\assets\\main.css"
+2025-10-16T10:46:31.149760Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\assets\\tw-manual-test.css"
+2025-10-16T10:46:31.150240Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\main.ts"
+2025-10-16T10:46:31.150666Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\router"
+2025-10-16T10:46:31.151419Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\router\\index.ts"
+2025-10-16T10:46:31.151976Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\shims-vue.d.ts"
+2025-10-16T10:46:31.152552Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\stores"
+2025-10-16T10:46:31.152888Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\stores\\counter.ts"
+2025-10-16T10:46:31.153140Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\views"
+2025-10-16T10:46:31.153364Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\views\\CatalogView.vue"
+2025-10-16T10:46:31.153481Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\views\\LoginView.vue"
+2025-10-16T10:46:31.153708Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\__tests__"
+2025-10-16T10:46:31.153943Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\__tests__\\App.spec.ts"
+2025-10-16T10:46:31.154064Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\tailwind.config.cjs"
+2025-10-16T10:46:31.154137Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\tmp-tailwind.css"
+2025-10-16T10:46:31.154201Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\tsconfig.app.json"
+2025-10-16T10:46:31.154279Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\tsconfig.json"
+2025-10-16T10:46:31.154359Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\tsconfig.node.json"
+2025-10-16T10:46:31.154421Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\tsconfig.vitest.json"
+2025-10-16T10:46:31.154480Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\vite.config.ts"
+2025-10-16T10:46:31.154538Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\vitest.config.ts"
+2025-10-16T10:46:31.154658Z  INFO scan_sources: tailwindcss_oxide::scanner: exit
+2025-10-16T10:46:31.154671Z  INFO extract_candidates: tailwindcss_oxide::scanner: enter
+2025-10-16T10:46:31.154682Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2025-10-16T10:46:31.154689Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 29 file(s)
+2025-10-16T10:46:31.155311Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\.editorconfig"
+2025-10-16T10:46:31.155373Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\src\\App.vue"
+2025-10-16T10:46:31.155432Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\.gitattributes"
+2025-10-16T10:46:31.155520Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\.prettierrc.json"
+2025-10-16T10:46:31.155603Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\.vscode\\extensions.json"
+2025-10-16T10:46:31.155692Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\e2e\\tsconfig.json"
+2025-10-16T10:46:31.155652Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\eslint.config.ts"
+2025-10-16T10:46:31.155791Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\src\\shims-vue.d.ts"
+2025-10-16T10:46:31.155830Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\src\\__tests__\\App.spec.ts"
+2025-10-16T10:46:31.155894Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\src\\stores\\counter.ts"
+2025-10-16T10:46:31.155920Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\index.html"
+2025-10-16T10:46:31.156016Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\tailwind.config.cjs"
+2025-10-16T10:46:31.156110Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\src\\main.ts"
+2025-10-16T10:46:31.156024Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\package.json"
+2025-10-16T10:46:31.156039Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\env.d.ts"
+2025-10-16T10:46:31.155836Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\e2e\\vue.spec.ts"
+2025-10-16T10:46:31.156034Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\src\\views\\CatalogView.vue"
+2025-10-16T10:46:31.156223Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\tsconfig.app.json"
+2025-10-16T10:46:31.156341Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\scripts\\tw-test.mjs"
+2025-10-16T10:46:31.156226Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\src\\views\\LoginView.vue"
+2025-10-16T10:46:31.156444Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\vitest.config.ts"
+2025-10-16T10:46:31.156436Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\tsconfig.json"
+2025-10-16T10:46:31.156257Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\playwright.config.ts"
+2025-10-16T10:46:31.156262Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\README.md"
+2025-10-16T10:46:31.156447Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\vite.config.ts"
+2025-10-16T10:46:31.156277Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\src\\router\\index.ts"
+2025-10-16T10:46:31.156490Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\tsconfig.vitest.json"
+2025-10-16T10:46:31.156544Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\tsconfig.node.json"
+2025-10-16T10:46:31.156880Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\postcss.config.cjs"
+2025-10-16T10:46:31.157030Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2025-10-16T10:46:31.157063Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: enter
+2025-10-16T10:46:31.157077Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: enter
+2025-10-16T10:46:31.158553Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: exit
+2025-10-16T10:46:31.158624Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: exit
+2025-10-16T10:46:31.158647Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2025-10-16T10:46:31.158659Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 3 file(s)
+2025-10-16T10:46:31.159440Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\src\\assets\\main.css"
+2025-10-16T10:46:31.159501Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\src\\assets\\tw-manual-test.css"
+2025-10-16T10:46:31.159516Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kamen\\gcs-hackathon\\tmp-tailwind.css"
+2025-10-16T10:46:31.159967Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2025-10-16T10:46:31.160053Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: enter
+2025-10-16T10:46:31.160076Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: enter
+2025-10-16T10:46:31.160411Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: exit
+2025-10-16T10:46:31.160469Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: exit
+2025-10-16T10:46:31.161162Z  INFO extract_candidates: tailwindcss_oxide::scanner: exit
+2025-10-16T10:46:31.161839Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2025-10-16T10:46:31.161859Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: enter
+2025-10-16T10:46:31.164134Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\.vscode"
+2025-10-16T10:46:31.164423Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\e2e"
+2025-10-16T10:46:31.165152Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\public"
+2025-10-16T10:46:31.165390Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\scripts"
+2025-10-16T10:46:31.165598Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src"
+2025-10-16T10:46:31.165799Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\assets"
+2025-10-16T10:46:31.166125Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\router"
+2025-10-16T10:46:31.166599Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\stores"
+2025-10-16T10:46:31.167842Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\views"
+2025-10-16T10:46:31.168715Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\__tests__"
+2025-10-16T10:46:31.170184Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: exit
+2025-10-16T10:46:31.170730Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2025-10-16T10:46:31.171298Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2025-10-16T10:46:31.171323Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: enter
+2025-10-16T10:46:31.174260Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\.vscode"
+2025-10-16T10:46:31.175271Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\e2e"
+2025-10-16T10:46:31.177989Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\public"
+2025-10-16T10:46:31.178638Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\scripts"
+2025-10-16T10:46:31.178905Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src"
+2025-10-16T10:46:31.179135Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\assets"
+2025-10-16T10:46:31.179603Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\router"
+2025-10-16T10:46:31.180005Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\stores"
+2025-10-16T10:46:31.180230Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\views"
+2025-10-16T10:46:31.180474Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kamen\\gcs-hackathon\\src\\__tests__"
+2025-10-16T10:46:31.181255Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: exit
+2025-10-16T10:46:31.190705Z  INFO get_globs: tailwindcss_oxide::scanner: exit

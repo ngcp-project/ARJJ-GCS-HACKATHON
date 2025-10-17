@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* explicit use */
+.t-bg { @apply bg-green-800; }
+.t-bg2 { @apply bg-gray-50; }

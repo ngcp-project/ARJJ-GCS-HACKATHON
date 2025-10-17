@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add project-wide custom styles below */
+
+/* Fallback colors while Tailwind utilities are being debugged */
+:root {
+	--app-bg: #f9fafb; /* Tailwind gray-50 */
+	--app-text: #1f2937; /* Tailwind gray-800 */
+}
+
+html, body, #app {
+	background-color: var(--app-bg);
+	color: var(--app-text);
+	min-height: 100vh;
+}
